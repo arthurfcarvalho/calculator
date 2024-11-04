@@ -35,7 +35,7 @@ This project is a simple calculator developed as an assignment for the **Mobile 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/calculadora-iftm.git
+   git clone https://github.com/arthurfcarvalho/calculator.git
 2. Open Android Studio and select "Open an Existing Project".
 3. Navigate to the folder where the repository was cloned and select it.
 4. Wait for Android Studio to configure the environment and load all required dependencies.
